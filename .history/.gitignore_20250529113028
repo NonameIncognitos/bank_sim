@@ -1,7 +1,0 @@
-/venv
-/history
-.pytest_cache
-tests
-bank.db
-.gitignore
-/bank_sim/pytest_cache
