@@ -1,0 +1,6 @@
+/venv
+/history
+.pytest_cache
+tests
+bank.db
+.gitignore
